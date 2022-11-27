@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recent graduate with a BS in Computer Science, looking for full-time employment as a software engineer.  
+I am a recent college graduate with a BS in Computer Science, looking for full-time employment as a software engineer.  
 My previous projects have largely dealt with web development and project management, but I am eager to expand my horizons and explore other fields (e.g., data science, AI learning).  
   
-Pinned below are some of the group projects I have worked on in bootcamps the past two years, the most notable ones being Meopets, my TTP bootcamp capstone, and NYCare, my Hack Brooklyn 2021 submission.  
+Pinned below are some of the group projects I have worked on in bootcamps or in school — the most notable ones being Meopets, my TTP bootcamp capstone, and NYCare, my Hack Brooklyn 2021 submission.  
 Both were completed on tight schedules: the capstone, a number of days, and the hackathon entry, under 48 hours.  
-I learned a lot about working together with strong teammates who have differing opinions, and how to improve my skills under pressure.  
+Through these projects, I learned a lot about working together with talented individuals who have differing opinions, and meeting deadlines under pressure.  
+I'm looking forward to bringing my sharpened skills to the table at my future company!
 
 📝 [Resume](https://imgur.com/a/2oyJnhi)  
 📫 Email: leelucy412@gmail.com  
