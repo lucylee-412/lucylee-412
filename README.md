@@ -23,5 +23,5 @@ Both were completed on tight schedules: the capstone, a number of days, and the 
 Through these projects, I learned a lot about working together with talented individuals who have differing opinions, and meeting deadlines under pressure.  
 I'm looking forward to bringing my sharpened skills to the table at my future company!
 
-📝 [Resume](https://imgur.com/a/2oyJnhi)  
+📝 [Resume](https://imgur.com/a/AgrQeFz)  
 📫 Email: leelucy412@gmail.com  
