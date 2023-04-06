@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recent college graduate with a BS in Computer Science, looking for full-time employment as a software engineer.  
+I am a junior software engineer working at nuArch, a small consultant firm. I recently graduated with a BS in computer science.
 My previous projects have largely dealt with web development and project management, but I am eager to expand my horizons and explore other fields (e.g., data science, AI learning).  
   
 Pinned below are some of the group projects I have worked on in bootcamps or in school — the most notable ones being Meopets, my TTP bootcamp capstone, and NYCare, my Hack Brooklyn 2021 submission.  
