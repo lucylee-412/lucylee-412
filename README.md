@@ -1,4 +1,4 @@
-### Hi, I'm Lucy Lee! 👋
+### Hi, I'm Lucy Lee! 🌞
 
 <!--
 **lucylee-412/lucylee-412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a junior software engineer, looking for work. I recently worked at nuArch as a consultant for eight months, and I have a BS in computer science.
-My previous projects have largely dealt with web development and project management, but I am eager to expand my horizons and explore other fields (e.g., data science, AI learning).  
+I am a software engineer, currently looking for work. I worked as a junior developer consultant in 2023, completed two software engineering internships, and have a BS in computer science.
+My previous projects (NDA) have largely dealt with web and data development, and project management, all of which I greatly enjoy. I am also eager to expand my horizons, and explore other fields (e.g., data science, AI learning) throughout my career.  
   
-Pinned below are some of the group projects I have worked on in bootcamps or in school — the most notable ones being Meopets, my TTP bootcamp capstone, and NYCare, my Hack Brooklyn 2021 submission.  
-Both were completed on tight schedules: the capstone, a number of days, and the hackathon entry, under 48 hours.  
-Through these projects, I learned a lot about working together with talented individuals who have differing opinions, and meeting deadlines under pressure.  
+Pinned below this README are some group projects I have worked on over time — the most notable ones being Meopets, my capstone project for Brooklyn College's Tech Talent Pipeline, and NYCare, my Hack Brooklyn 2021 submission.  
+Both were completed on tight schedules: the capstone, a number of days; and the hackathon entry, under 48 hours.  I worked together with talented individuals and learned a lot about compromising on our differing opinions, as well as meeting deadlines under pressure.  
 
-📝 [Resume](https://imgur.com/a/AgrQeFz)  
+
+📝 [Resume](https://i.imgur.com/fuB68Be.png)  
 📫 Email: leelucy412@gmail.com  
