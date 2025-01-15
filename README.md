@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a software engineer, currently looking for work. I worked as a junior developer consultant in 2023, completed two software engineering internships, and have a BS in computer science.
-My previous projects (NDA) have largely dealt with web and data development, and project management, all of which I greatly enjoy. I am also eager to expand my horizons, and explore other fields (e.g., data science, AI learning) throughout my career.  
+My previous projects (NDA) have largely dealt with web and data development, and project management, all of which I greatly enjoy. I'm eager to further hone my skillset, and open to expanding my horizons in other fields (e.g., data science, machine learning) throughout my career.  
   
 Pinned below this README are some group projects I have worked on over time — the most notable ones being Meopets, my capstone project for Brooklyn College's Tech Talent Pipeline, and NYCare, my Hack Brooklyn 2021 submission.  
 Both were completed on tight schedules: the capstone, a number of days; and the hackathon entry, under 48 hours.  I worked together with talented individuals and learned a lot about compromising on our differing opinions, as well as meeting deadlines under pressure.  
