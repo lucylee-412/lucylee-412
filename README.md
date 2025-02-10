@@ -23,5 +23,5 @@ Pinned below this README are some group projects I have worked on over time — 
 Both were completed on tight schedules: the capstone, a number of days; and the hackathon entry, under 48 hours.  I worked together with talented individuals and learned a lot about compromising on our differing opinions, as well as meeting deadlines under pressure.  
 
 
-📝 [Resume](https://i.imgur.com/MIDm32U.png)
+📝 [Resume](https://i.imgur.com/MIDm32U.png)  
 📫 Email: leelucy412@gmail.com  
